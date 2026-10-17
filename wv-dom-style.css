@@ -108,7 +108,7 @@ a {
  .hero{
      position:relative;
      min-height:auto;
-     background:url('../image/intro-bg.webp') center/cover no-repeat;
+     background:url('https://www.worldvillas.co.in/image/intro-bg.webp') center/cover no-repeat;
      display:flex;
     align-items:center;
     padding: 8rem 0 5rem 0;
