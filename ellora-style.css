@@ -173,7 +173,7 @@ img {
     inset:0
 }
 .hero-media{
-    background-image:url("../images/hero-banner.png");
+    background-image:url("https://official.elloragroup.in/images/hero-banner.png");
     background-size:cover;
     background-position:center;
     transform:scale(1.04)
@@ -823,7 +823,7 @@ ul.connect-card li label {
     color: #000;
 }
 .about {
-    background-image: url(../images/about-bg.jpeg);
+    background-image: url(https://official.elloragroup.in/images/about-bg.jpeg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: right;
